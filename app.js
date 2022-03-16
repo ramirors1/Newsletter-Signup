@@ -71,8 +71,3 @@ app.get("/", function(req, res){
 app.listen(3000, function() {
     console.log("Server is running on port 3000.");
 });
-
-
-// 7d8a0436a1294092bda89a5058b6ce4d-us14
-
-// 8a19c6575e
